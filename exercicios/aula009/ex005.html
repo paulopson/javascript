@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiros passos com DOM</title>
+    <style>
+        body {
+            background-color: rgb(18, 230, 159);
+            font-family: Arial, Helvetica, sans-serif;
+            color: white;
+               
+        }
+    </style>
+</head>
+<body>
+    <h1>Aprendendo mais sobre DOM</h1>
+    <p>Aqui vai o resultado</p>
+    <p>Aprendendo a usar o <strong>DOM</strong> em JavaScript.</p>
+    <div id="msg">Clique em mim</div>
+    <script>
+        var corpo = window.document.body
+        var p1 = window.document.getElementsByTagName('p')[1]//tag para selecionar todos os elementos por tag, no caso esse os paragrafos ('p') [1] e o nuemro do paragrafo, lembrando que começa a contagem por 0
+        //POR MARCA(TAG)
+
+        //window.document.write('Está escrito assim: ' + p1.innerHTML) 
+        //usando inner.HTML vemos o comando inteiro, com toda a formatação, no caso esse que vem com o strong.  
+        //usando inner.Text vemos somento o texto.
+        
+        //POR ID
+        /*
+        var d = window.document.getElementById('msg')
+        d.style.color = 'red' //mudando a cor da div pelo JavaScript
+        d.innerText = 'Estou aguardando você clicar em mim...' //mudando o texto com inner.Text em Js
+       
+        */
+
+        //POR NOME
+        /*
+        var d = window.document.getElementsByName('msg')[0]
+        d.innerText = 'Hola!'
+        */
+
+       //POR CLASSE
+        /* var d = window.document.getElementsByClassName('msg')[0]
+        d.innerText = 'Ola, hermanito !'
+        */
+
+        //POR SELETOR
+        var d = window.document.querySelector('div#msg') //novo metodo por seletores
+        d.style.background = 'red'
+    </script>
+
+</body>
+</html>

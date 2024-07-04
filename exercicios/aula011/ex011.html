@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>País de origem</title>
+</head>
+<body>
+    <h1>País de origem</h1>
+    Qual seu pais de origem <input type="text" name="ori" id="origem">
+    <input type="button" value="Buscar" onclick="calcular()"> 
+    <div id="resultado">
+
+    </div>
+
+    <script>
+        function calcular() {
+            var nacao = window.document.getElementById('origem')
+            var res = window.document.getElementById('resultado')
+            var city = origem.value //nome do pais e atribuido a uma variavel
+            
+            resultado.innerHTML = `<p>Seu país de origem é o <strong>${city}</strong></p>`
+                if (city == 'Brasil') {
+                    resultado.innerHTML += `<strong>Você e Brasileiro, parabens</strong>`
+                }else {
+                    resultado.innerHTML += `<p>Obrigador por ter vindo, mas você não atende os requisitos necessarios!</p>`
+                }
+        }
+    </script>
+</body>
+</html>
