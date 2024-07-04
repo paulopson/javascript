@@ -22,4 +22,4 @@
 
 <a href="https://paulopson.github.io/javascript/exercicios/aula012/aula012ex/ex01/modelo.html" target="blank"> Verificando a hora do dia </a>
 
-<a href="https://paulopson.github.io/javascript/exercicios/aula012/aula012ex/exe02/modelo.html" target="blank"> Verificando seu sexo e sua idade </a>
+<a href="https://paulopson.github.io/javascript/exercicios/aula012/aula012ex/exe2/modelo.html" target="blank"> Verificando seu sexo e sua idade </a>
