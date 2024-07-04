@@ -1,5 +1,6 @@
 # javascript
- Curso de JavaScript
+ <strong>Curso de JavaScript</strong>
+
 <a href="https://paulopson.github.io/javascript/exercicios/aula004" target="blank"> Executar </a>
 
 <a href="https://paulopson.github.io/javascript/exercicios/aula005" target="blank"> Executar </a>
