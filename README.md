@@ -1,8 +1,8 @@
 # javascript
  Curso de JavaScript
-<a href="https://paulopson.github.io/javascript/exercicios/aula004/index.html/" target="blank"> Executar </a>
+<a href="https://paulopson.github.io/javascript/exercicios/aula004" target="blank"> Executar </a>
 
-<a href="https://paulopson.github.io/javascript/exercicios/aula005/index copy.html" target="blank"> Executar </a>
+<a href="https://paulopson.github.io/javascript/exercicios/aula005" target="blank"> Executar </a>
 
 <a href="https://paulopson.github.io/javascript/exercicios/aula009/ex005.html" target="blank"> Executar </a>
 
