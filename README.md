@@ -4,7 +4,7 @@
 
 <a href="https://paulopson.github.io/javascript/exercicios/aula004" target="blank"> Primeira em JS </a>
 
-<a href="https://paulopson.github.io/javascript/exercicios/aula005/index cop.html" target="blank"> Soma entre valores </a>
+<a href="https://paulopson.github.io/javascript/exercicios/aula005/index copy.html" target="blank"> Soma entre valores </a>
 
 <a href="https://paulopson.github.io/javascript/exercicios/aula005/index.html" target="blank"> Apresentando seu nome </a>
 
