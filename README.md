@@ -1,5 +1,6 @@
 # javascript
 
+
  <strong>Curso de JavaScript</strong>
 
 <a href="https://paulopson.github.io/javascript/exercicios/aula004" target="blank"> Primeira em JS </a>
@@ -10,7 +11,7 @@
 
 <a href="https://paulopson.github.io/javascript/exercicios/aula005/index3.html" target="blank"> Leitura de nome </a>
 
-<a href="https://paulopson.github.io/javascript/exercicios/aula009" target="blank"> Primeiro passos em DOM </a>
+<a href="https://paulopson.github.io/javascript/exercicios/aula009/ex005.html" target="blank"> Primeiro passos em DOM </a>
 
 <a href="https://paulopson.github.io/javascript/exercicios/aula010/ex01.html" target="blank"> Interação com o mouse </a>
 
